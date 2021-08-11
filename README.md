@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KAUNGPYAEPAING
-- 👀 I’m interested in Web Design
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript and Nodejs
 - 💞️ I’m looking to collaborate on Website Design
 - 📫 How to reach me ... aungkaungpyaepaing.dev@gmail.com
