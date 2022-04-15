@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KAUNGPYAEPAING
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Vuejs
-- 💞️ I’m looking to collaborate on Front-end development or Website Design
+- 🌱 I’m currently learning Laravel
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ... kaungpyaebusiness@gmail.com
 
 <!---
