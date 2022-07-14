@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KAUNGPYAEPAING
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on Web Development
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Web Development(Laravel)
 - 📫 How to reach me ... kaungpyae.kp27@gmail.com
 
 <!---
